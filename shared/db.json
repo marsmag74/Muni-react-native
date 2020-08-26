@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+        "id": 0,
+        "productId": 0,
+        "image": "images/strawberry-cake.jpg",
+        "title": "Strawberry Cake",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": true,
+        "categories": "bakery",
+        "productUnit": ["small","medium","large"]
+ },
+       {
+        "id": 1,
+        "productId": 1,
+        "image": "images/pastries copy.jpg",
+        "title": "Strawberry cheesecake pastry",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": true,
+        "categories": "bakery",
+        "productUnit": ["piece","half-dozen","dozen"]
+ },
+        {
+        "id": 2,
+        "productId": 2,
+        "image": "images/mockaroon.jpg",
+        "title": "Macaron",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": true,
+        "categories": "bakery",
+        "productUnit": ["piece","half-dozen","dozen"]
+ },
+       {
+        "id": 3,
+        "productId": 3,
+        "image": "images/mango-jam.jpg",
+        "title": "Mango Chutney",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": true,
+        "categories": "jams",
+        "productUnit": ["piece"]
+ },
+       {
+        "id": 4,
+        "productId": 4,
+        "image": "images/lemon-pie.jpg",
+        "title": "Lemon Pie",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": false,
+        "categories": "bakery",
+        "productUnit": ["small","medium","large"]
+ },
+      {
+        "id": 5,
+        "productId": 5,
+        "image": "images/jar-jams.jpg",
+        "title": "Organic Jams",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": false,
+        "categories": "jams",
+        "productUnit": ["piece"]
+ },
+
+      {
+        "id": 6,
+        "productId": 6,
+        "image": "images/heart-cookie.jpg",
+        "title": "Heart Cookie",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": false,
+        "categories": "bakery",
+        "productUnit": ["piece","half-dozen","dozen"]
+ },
+ {
+        "id": 7,
+        "productId": 7,
+        "image": "images/fancy-cake.jpg",
+        "title": "Luxury cake",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": false,
+        "categories": "bakery",
+        "productUnit":["small","medium","large"]
+ },
+    {
+        "id": 8,
+        "productId": 8,
+        "image": "images/donuts.jpg",
+        "title": "Donuts sorted",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": false,
+        "categories": "bakery",
+        "productUnit":["piece","half-dozen","dozen"]
+ },
+   {
+        "id": 9,
+        "productId": 9,
+        "image": "images/donut-chocolate.jpg",
+        "title": "Chocolate Donut",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": false,
+        "categories": "bakery",
+        "productUnit":["piece","half-dozen","dozen"]
+ },
+   {
+        "id": 10,
+        "productId": 10,
+        "image": "images/cupcake-vanilla.jpg",
+        "title": "Cupcake Vanilla",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": false,
+        "categories": "bakery",
+        "productUnit":["piece","half-dozen","dozen"]
+ },
+      {
+        "id": 11,
+        "productId": 11,
+        "image": "images/cupcake-sprinkles.jpg",
+        "title": "Cupcake with Sprinkles",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": false,
+        "categories": "bakery",
+        "productUnit":["piece","half-dozen","dozen"]
+ },
+      {
+        "id": 12,
+        "productId": 12,
+        "image": "images/chocolate-cookies.jpg",
+        "title": "Chocolate cookies",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "featured": false,
+        "categories": "bakery",
+        "productUnit":["piece","half-dozen","dozen"]
+ }
+  ]
+  }
+  
